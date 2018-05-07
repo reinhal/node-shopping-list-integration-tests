@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: a7MbSocCDawh1I/rizvX0KDbd/qW40Fb2snn4+D3zSrS8rjhzaS9J5+CKxAXFI3w/b/ByFcB25QYf+Demv/9rjRVPDp96CI6i0ALes0uXbkaaW3LuESguwPBWS82+aOCZWlotWzJaV4lOlx4NTasZlKhigBeqLalKbOUOZStg7oZyL5Xvsryoztd8XMwYUuhNnZqZV+gjQwumJU2w7c4yVhxYBpdHwk9drhIJ4I1XBahcU4kTKxXrzIUQLJL84q4lNQsj/p0hmkaFjOBul8ihyT30dzZLAu4BTiYyXiWJ+3Us1m5l7pm6PhKHK5nc15U6h+8cmbPkk59+TeNqZZXrvOs29zSnKq3LvrEk5gW9Z9mifmNvZbIqhjkWqYVURtGKelM13G4kHSqdJQ0Kj3NJvM0fIkAEL6OjwhI6N9ltCIsb1bPqMCzH32O0mvMYkGPv3INdSwsLx1maDX2MgfSxUMLjrlKG6i/g3KkRMxSgIVJPMNBuIn9OqUpUV5O9uoXgK+XncdwzXJQDkrLfa2kfpRWioFfiMHJAGKkh11rOMMVmfNSKjVeNOQ1lm+OszYSiKzyMpSPrw/zErsgDZ7V94ZFT7zoa5HtBQVvF3C8Alt8tV6UzDI5eap0bpRCkDYm7asTR+Yu6XweVMCUnCUYE1+18O0adr0u4GNW9Hl8aF0=
-  app: https://glacial-fortress-55384.herokuapp.com/
+  app: glacial-fortress-55384
   on:
     repo: reinhal/node-shopping-list-integration-tests
